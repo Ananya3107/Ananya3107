@@ -1,4 +1,5 @@
 ## Hello!! I am Ananya Tiwari, a passionate coder.
+![image](https://github.com/user-attachments/assets/02cea4fd-333b-427d-a1f0-cd1b576488e8)
 
 <!--
 **Ananya3107/Ananya3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
